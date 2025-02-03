@@ -20,23 +20,23 @@
                         "rows": [
                             [
                                 "candle",
-                                "hammer",
                                 "handyglove",
                                 "raft",
-                                "boots"
+                                "boots",
+                                "flute"
                             ],
                             [
-                                "flute",
                                 "cross",
-                                "child",
+                                "hammer",
                                 "magicalkey",
-                                "bagusletter"
+                                "trophy",
+                                "wateroflife"
                             ],
                             [
-                                "trophy",
+                                "child",
+                                "bagusletter",
                                 "upthrust",
                                 "downthrust",
-                                "wateroflife",
                                 "magiccontainer"
                             ]
                         ]
