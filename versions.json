@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "0.0.2",
+			"download_url": "https://github.com/palex00/zelda-2-ap-tracker/archive/refs/tags/0.0.2.zip",
+			"sha256": "56bb537f4d335b2fb03bc1130229383ad7ae406107b92a482a33c53e85a3f410",
+			"changelog": [""]
+		}
+		{
 			"package_version": "0.0.1",
 			"download_url": "https://github.com/palex00/zelda-2-ap-tracker/archive/refs/tags/0.0.1.zip",
 			"sha256": "56bb537f4d335b2fb03bc1130229383ad7ae406107b92a482a33c53e85a3f410",
