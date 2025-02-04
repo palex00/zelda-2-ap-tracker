@@ -15,7 +15,7 @@ function cross()
 end
 
 function high()
-    return has("jumpspell") or has("fairyspsell")
+    return has("jumpspell") or has("fairyspell")
 end
 
 function boulder()
