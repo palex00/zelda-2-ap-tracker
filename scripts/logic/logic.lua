@@ -33,7 +33,8 @@ end
 function key(palace, ool, il)
     local ool_n = tonumber(ool)
     local il_n = tonumber(il)
-    local count = Tracker:ProviderCountForCode("("..palace..")palacekey")
+    local count = Tracker:ProviderCountForCode(palace.."palacekey")
+    
     if has("magicalkey") then
         return AccessibilityLevel.Normal
     elseif count >= il_n then
